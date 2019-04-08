@@ -1,2 +1,2 @@
 # PowerShell
-Collection of scripts and code snippets 
+Collection of mostly SCCM scripts and code snippets 
